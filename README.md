@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 <h2>Olá, sou José Fernandes</h2>
 
 <h5>Desenvolvedor Back-end</h5>
